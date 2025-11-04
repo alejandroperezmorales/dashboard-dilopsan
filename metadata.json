@@ -1,0 +1,5 @@
+{
+  "name": "Dilopsan Sales Dashboard",
+  "description": "An interactive sales dashboard that visualizes key performance indicators for Dilopsan. It uses Gemini to dynamically generate and analyze sales data, presenting insights through various charts and metrics.",
+  "requestFramePermissions": []
+}
